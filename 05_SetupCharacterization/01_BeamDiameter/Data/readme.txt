@@ -1,0 +1,1 @@
+Every measurement consists of two files. This is because the range of the controller for the stage is too small to cover the whole beam. Therefore, the first measurement is the first half, the second measurement the second half of the beam.
